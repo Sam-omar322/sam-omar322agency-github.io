@@ -494,6 +494,11 @@ footer .copyright p {
     }
 }
 @media (max-width: 576px)  {
+    header .overlay .carousel .carousel-item .carousel-content h2 {
+        font-size: 22px;
+        line-height: 45px;
+        margin-bottom: 45px;
+    }
     .carousel button {
         display: none;
     }
